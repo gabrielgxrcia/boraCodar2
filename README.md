@@ -38,7 +38,7 @@ boraCodar é um projeto com uma rotina de 21 dias de prática na programação. 
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](<https://www.figma.com/file/dy9YE2QcSGVrtkvEH51qWs/%23boraCodar---Desafio-2-(Community)). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/community/file/1195050984449538256). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 ## :memo: Licença
 
