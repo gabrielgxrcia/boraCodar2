@@ -1,32 +1,49 @@
-![projetoFinal](./github/finalprojeto.png)
+<h1 align="center"> boraCodar#2 - Sofá Margot II </h1>
 
-<h1 align='center'>Sofá Margot II - #boraCodar</h1>
+<p align="center">
+Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB. <br/>
+</p>
 
-<p> Esse projeto foi desenvolvido durante o segundo desafio semanal da Rocketseat, chamado #boraCodar. O projeto foi desenvolvido em <b>HTML5, CSS3 e JavaScript.</b></p>
+<p align="center">
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-licença">Licença</a>
+</p>
 
-- [Acessar Desafio](https://boracodar.dev)
+<p align="center">
+  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
+</p>
+
+<br>
+
+<p align="center">
+  <img alt="Projeto boraCodar" src="./github/finalprojeto.png" width="100%">
+</p>
 
 ## 🚀 Tecnologias
 
-- HTML5, CSS3.
-- JavaScript.
-- Flexbox.
+Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-<h3>🖌️ Protótipo</h3>
+- HTML e CSS
+- JavaScript
+- Git e Github
+- Figma
 
-Acesse o protótipo disponibilizado pela Rocketseat clicando no botão abaixo:
+## 💻 Projeto
 
-<a href="https://www.figma.com/file/dy9YE2QcSGVrtkvEH51qWs/%23boraCodar---Desafio-2-(Community)
-">![Figma](https://img.shields.io/badge/Acessar%20Protótipo-2A2141?style=for-the-badge&logo=figma&logoColor=white)</a>
+boraCodar é um projeto com uma rotina de 21 dias de prática na programação. E o de hoje foi o segundo desafio semanal.
 
-<h3>👓 Deploy</h3>
+- [Acesse o projeto finalizado, online](https://gabrielgxrcia.github.io/boraCodar2/)
 
-Acesse o projeto em produção clicando no botão abaixo:
+## 🔖 Layout
 
-<a href="" target='_blank'></a>
+Você pode visualizar o layout do projeto através [DESSE LINK](<https://www.figma.com/file/dy9YE2QcSGVrtkvEH51qWs/%23boraCodar---Desafio-2-(Community)). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
-## 🏷️ Autor
+## :memo: Licença
 
-<table>
-  <tr>
-    <td align="center"><a href="https://github.com/gabrielgxrcia"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/110958994?s=400&u=94c73a2ad59ada921e441ec6c850b920a8ad5441&v=4" width="100px;" alt=""/><br /><sub><b>Gabriel Garcia</b></sub></a><br /><br /><a href="https://www.linkedin.com/in/gabrielgarciagrazeffi/"><img src="https://user-images.githubusercontent.com/86114583/192514843-1087a34f-74f9-46aa-94fa-e824950af81f.svg" width="20px"/></a>⠀<a href="mailto:gabrielgrazeffi12@gmail.com"><img src="https://user-images.githubusercontent.com/86114583/192515071-4fa6bce6-6ee9-49ca-9395-c17e74075a20.svg" width="20px"/></a>
+Esse projeto está sob a licença MIT.
+
+---
+
+Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
